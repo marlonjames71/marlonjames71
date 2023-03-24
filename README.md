@@ -1,10 +1,7 @@
 ### Hi there 👋 -- Thanks for Stopping By!
 
-**This will be updated at some point.**
-
-- 🔭 I’m currently working on ... Building custom rich links.
-- 🌱 I’m currently learning ... `CloudKit`, `Combine`, and tinkering with `Swift Concurrency`
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ... My first YouTube video...and it talks about SwiftUI.
+- 🌱 I’m currently learning ... `Combine`, `Swift Concurrency`, and how to make YouTube videos 😅
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Twitter: @_MarlonJames71
+- ⚡ Fun fact: I'm a musician as well. Been playing for most of my life. (That doesn't mean I'm any good 🤫)
